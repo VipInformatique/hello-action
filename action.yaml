@@ -10,6 +10,6 @@ input:
     using: "node20"
     main: "index.js"
 
-  branding:
-    icon: 'message-square'
-    color: 'blue'
+branding:
+  icon: 'message-square'
+  color: 'blue'

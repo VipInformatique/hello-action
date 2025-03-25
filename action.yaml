@@ -6,9 +6,9 @@ input:
     description: "Nom de l'utilisateur": 
     required: true
     default: "World"
-  runs:
-    using: "node20"
-    main: "index.js"
+runs:
+  using: "node20"
+  main: "index.js"
 
 branding:
   icon: 'message-square'

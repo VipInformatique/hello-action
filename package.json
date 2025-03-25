@@ -1,0 +1,9 @@
+{
+    "name": "Hello-action",
+    "version": "1.0.0",
+    "description": "Hello action simple pour GitHub",
+    "main": "index.js",
+    "depandencies": {
+        "@actions/core": "^1.10.0"
+    }
+}
